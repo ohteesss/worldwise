@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Jack",
+      "email": "jack@example.com",
+      "password": "qwerty",
+      "avatar": "https://i.pravatar.cc/100?u=zz",
+      "id": 90876
+    },
+    {
+      "name": "Emmanuel",
+      "email": "ol@hm.com",
+      "password": "cXaXX76cbjF5CWG",
+      "avatar": "https://i.pravatar.cc/100?u=z",
+      "id": 90877
+    },
+    {
+      "name": "hjng",
+      "email": "lkkj@mn.bnm",
+      "password": "jhuyttffc",
+      "avatar": "https://i.pravatar.cc/100?u=z",
+      "id": 90878
+    },
+    {
+      "name": "ahshh",
+      "email": "jk@example.com",
+      "password": "q23456hj",
+      "avatar": "https://i.pravatar.cc/100?u=z",
+      "id": 90879
+    },
+    {
+      "name": "Zebs",
+      "email": "zebs@mail.com",
+      "password": "zeb456",
+      "avatar": "https://i.pravatar.cc/100?u=z",
+      "id": 90880
+    },
+    {
+      "name": "zebo",
+      "email": "zebo@example.com",
+      "password": "qwertyzebo",
+      "avatar": "https://i.pravatar.cc/100?u=z",
+      "id": 90881
+    },
+    {
+      "name": "OMOOO",
+      "email": "omo@example.com",
+      "password": "qwertyomo",
+      "avatar": "https://i.pravatar.cc/100?u=z",
+      "id": 90882
+    }
+  ]
+}

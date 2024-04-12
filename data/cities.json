@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Santa Colomba de Somoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-06T13:04:58.405Z",
+      "notes": "Asher❤️‍🔥",
+      "position": {
+        "lat": 42.439674178149446,
+        "lng": -6.416015625000001
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Arlit",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2023-09-06T16:44:00.275Z",
+      "notes": "soft",
+      "position": {
+        "lat": "18.729501999072138",
+        "lng": "8.063964843750002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Kachia",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-09-06T16:57:18.081Z",
+      "notes": "I never reach there",
+      "position": {
+        "lat": "9.644076964907923",
+        "lng": "7.954101562500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Tapeguia",
+      "country": "Cote d'Ivoire",
+      "emoji": "🇨🇮",
+      "date": "2023-09-06T17:26:57.427Z",
+      "notes": "",
+      "position": {
+        "lat": "6.35897532723566",
+        "lng": "-6.525878906250001"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Seattle",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-08T15:47:53.292Z",
+      "notes": "It's a rich city sha",
+      "position": {
+        "lat": "47.502358951968596",
+        "lng": "-122.23388671875001"
+      },
+      "id": 98443208
+    }
+  ]
+}
